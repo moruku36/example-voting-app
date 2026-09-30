@@ -1,3 +1,11 @@
+# Docker Example Voting App
+
+[English](README.md) | [日本語](README.ja.md)
+
+A distributed voting application with Python, Node.js, .NET, Redis, and PostgreSQL components, runnable with Docker Compose.
+
+---
+
 # Example Voting App
 
 A simple distributed application running across multiple Docker containers.
